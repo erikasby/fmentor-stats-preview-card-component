@@ -7,5 +7,5 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 ### Screenshot
-<img src="screenshots/desktop.png" height=500>
+<img src="screenshots/desktop.png" height=400>
 <img src="screenshots/mobile.png" height=500>
